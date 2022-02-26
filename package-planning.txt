@@ -1,0 +1,31 @@
+create-react-app in ts
+styled-components
+sass support
+story book
+jest -> watch and build
+
+
+
+
+
+variables
+custom components
+
+home-page.tsx
+ ->adapter
+ ->test file
+ ->story book
+ -> view-file
+
+
+final steps
+dark mode
+readme update
+es lint fix if possible
+
+atleast one custom hook like local storage and link it with dark mode
+
+favicon
+
+
+
