@@ -2,7 +2,8 @@
 
 ## Description
 
-This project is developed tp display countries data and detail.
+This project is developed tp display rest countries API data in listing and detail page. Filteration and basic transalation feature is implemented.
+Dark Mode is also wokring.
 
 ## Views
 
@@ -43,7 +44,7 @@ Open [http://localhost:3000/](http://localhost:3000/) with your browser to see t
 
 ### API endpoints
 
-Frontend consumes the following endpoints (full documentation [here](https://restcountries.com/#api-endpoints-v2)):
+Frontend consumes the following endpoints from rest countries API [full documentation here](https://restcountries.com/#api-endpoints-v2)):
 
 | Endpoint              | Usage in views         |
 | --------------------- | ---------------------- |
@@ -81,9 +82,9 @@ This app is using [Typescript](https://www.typescriptlang.org/), which has bette
 
 #### Testing setup is in progress
 
-Frontend application should be covered with unit tests and rendering tests. The code is format-checked during CI build. The testing libraries being used are [Jest](https://jestjs.io/) and [React Testing Library](https://github.com/testing-library/react-testing-library).
+Frontend application should be covered with unit tests and rendering tests. The testing libraries being used are [Jest](https://jestjs.io/) and [React Testing Library](https://github.com/testing-library/react-testing-library).
 
-Test files are created by adding a `.test.tsx` file, ex for component `Buttons.tsx` add a `Button.test.tsx`
+Test files are created by adding a `.test.tsx` file, example for component `Buttons.tsx` add a `Button.test.tsx`
 
 Run tests with command `npm run test` or `npm run test:watch` to start local server.
 
