@@ -2,8 +2,8 @@
 
 ## Description
 
-This project is developed tp display rest countries API data in listing and detail page. Filteration and basic transalation feature is implemented.
-Dark Mode is also wokring.
+This project is developed to display rest countries API data in listing and detail page. Filteration and basic transalation feature is implemented.
+Dark Mode is also wokring. Apllication is responsive for almost all devices.
 
 ## Views
 
